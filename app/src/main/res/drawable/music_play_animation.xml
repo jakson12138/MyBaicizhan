@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_volume_up_black_48dp" android:duration="100" />
+    <item android:drawable="@drawable/ic_volume_down_black_48dp" android:duration="100" />
+    <item android:drawable="@drawable/ic_volume_mute_black_48dp" android:duration="100" />
+</animation-list>
